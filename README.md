@@ -1,0 +1,1 @@
+# AWSのECRのFargateを使う練習
